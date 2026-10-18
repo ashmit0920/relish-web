@@ -4,7 +4,7 @@
 
 AI Builder Cup · Retail and Commerce
 
-[Website](https://getrelish.app) · [Source code](https://github.com/sushxntt/Relish) · iOS beta live on TestFlight
+[Landing page](https://getrelish.app) · [Test the app](https://chef-leo.web.app/) · iOS beta live on TestFlight
 
 ---
 
